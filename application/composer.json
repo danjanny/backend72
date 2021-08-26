@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Backend\\": "src/"
+        }
+    },
+    "require": {
+        "chriskacerguis/codeigniter-restserver": "^3.1"
+    }
+}
